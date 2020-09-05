@@ -1,8 +1,0 @@
-[2020-09-04 12:53:17.387] [main] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/forum/User'
-[2020-09-04 12:53:18.160] [main] [info] update#setState idle
-[2020-09-04 12:53:48.163] [main] [info] update#setState checking for updates
-[2020-09-04 12:53:48.490] [main] [info] update#setState idle
-[2020-09-04 13:53:48.172] [main] [info] update#setState checking for updates
-[2020-09-04 13:53:48.530] [main] [info] update#setState idle
-[2020-09-04 14:53:48.205] [main] [info] update#setState checking for updates
-[2020-09-04 14:53:48.511] [main] [info] update#setState idle
